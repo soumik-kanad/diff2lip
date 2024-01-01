@@ -1,0 +1,40 @@
+#experiments folder
+*.log
+*.error
+*slurm_logs*
+*out.txt*
+
+#preprocessing folder
+preprocessing/dummy*
+
+
+#scratch folder
+scratch/dummy*
+scratch/ffmpeg_out/
+scratch/open_cv/
+
+
+Wav2Lip/.git
+Wav2Lip/.gitignore
+# these are from Wav2Lip/.gitignore
+*.pkl
+*.jpg
+*.mp4
+*.pth
+*.pyc
+__pycache__
+*.h5
+*.avi
+*.wav
+Wav2Lip/filelists/*.txt
+Wav2Lip/filelists/*.txt.bak
+evaluation/test_filelists/lr*.txt
+*.pyc
+*.mkv
+*.gif
+*.webm
+*.mp3
+
+#evaluation folder
+evaluation/all_comparison/**/*.csv
+evaluation/all_comparison/**/*.txt
