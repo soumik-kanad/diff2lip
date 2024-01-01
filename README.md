@@ -9,15 +9,20 @@ This is the official repository for [Diff2Lip: Audio Conditioned Diffusion Model
 
 **Applications**: movies, education, virtual avatars, (eventually) video conferencing.
 
-<video id="teaser" autoplay muted loop playsinline height="100%" controls> <source src= "https://soumik-kanad.github.io/diff2lip/static/website_videos/website_gif_v2.mp4" type="video/mp4"></video>
+![](assets/website_gif_v2.gif)
+<!-- https://soumik-kanad.github.io/diff2lip/static/website_videos/website_gif_v2.mp4 -->
+<!-- <video id="teaser" autoplay muted loop playsinline height="100%" controls> <source src= "https://soumik-kanad.github.io/diff2lip/static/website_videos/website_gif_v2.mp4" type="video/mp4"></video> -->
 
 ### Results
 
-(a) Video Source &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) Wav2Lip  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) PC-AVS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) Diff2Lip (ours)
+(a) Video Source &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) Wav2Lip  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) PC-AVS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) Diff2Lip (ours)
 
-<video id="teaser" autoplay muted loop playsinline height="100%">
+![](assets/id02548.0pAkJZmlFqc.00001_id04570.0YMGn6BI9rg.00001.gif)
+<!-- https://soumik-kanad.github.io/diff2lip/static/website_videos/id02548.0pAkJZmlFqc.00001_id04570.0YMGn6BI9rg.00001.mp4 -->
+
+<!-- <video id="teaser" autoplay muted loop playsinline height="100%">
 <source src="https://soumik-kanad.github.io/diff2lip/static/website_videos/id02548.0pAkJZmlFqc.00001_id04570.0YMGn6BI9rg.00001.mp4" type="video/mp4">
-</video>
+</video> -->
 
 Please find more results on our website.
 
