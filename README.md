@@ -63,9 +63,9 @@ scripts/inference.sh
 ```
 
 ### Inference on other data
-For example if you want to run on LRW dataset, apart from the above arguments you also need to change variable `filelist_recon` to `dataset/filelists/lrw_reconstruction_relative_path.txt` and variable `filelist_cross` to `dataset/filelists/lrw_cross_relative_path.txt`. Each line of these filelists contain the relative path of the audio source and the video source separated by a space, relative to the `real_video_root` variable. 
+For example if you want to run on LRW dataset, apart from the above arguments you also need to set `--is_voxceleb2=False`, change variable `filelist_recon` to `dataset/filelists/lrw_reconstruction_relative_path.txt` and variable `filelist_cross` to `dataset/filelists/lrw_cross_relative_path.txt`. Each line of these filelists contain the relative path of the audio source and the video source separated by a space, relative to the `real_video_root` variable. 
 
-For inference on a single video either (1) filelist can have only one line or (2) set `--generate_from_filelist=0` and specify `--video_path`,`--audio_path`,`--out_path` instead of `--test_video_dir`,`--sample_path`,`--filelist` flags in the `scripts/inference.sh` script.
+For inference on a single video set `--is_voxceleb2=False` and then either (1) filelist can have only one line or (2) set `--generate_from_filelist=0` and specify `--video_path`,`--audio_path`,`--out_path` instead of `--test_video_dir`,`--sample_path`,`--filelist` flags in the `scripts/inference.sh` script.
 
 
 
