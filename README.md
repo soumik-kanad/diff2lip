@@ -1,8 +1,8 @@
 # Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization
 This is the official repository for [Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html) accepted at WACV 2024. It includes the script to run lip-synchronization at inference time given a filelist of audio-video pairs. 
 
-[Abstract](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[ArXiv](https://arxiv.org/abs/2308.09716)|[PDF](https://arxiv.org/pdf/2308.09716.pdf)|[Website](https://soumik-kanad.github.io/diff2lip/)|
-|:-:|:-:|:-:|:-:|
+[Abstract](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[ArXiv](https://arxiv.org/abs/2308.09716)|[PDF](https://arxiv.org/pdf/2308.09716.pdf)|[Website](https://soumik-kanad.github.io/diff2lip/)|[Colab Notebook](https://colab.research.google.com/drive/1YXGFXWclLZnBLe16_Cp5q8O9vyp7utCn?usp=sharing)|
+|:-:|:-:|:-:|:-:|:-:|
 
 ### tl;dr
 **Diff2Lip**: arbitrary speech + face videos → high quality lip-sync.
