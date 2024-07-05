@@ -67,6 +67,8 @@ For example if you want to run on LRW dataset, apart from the above arguments yo
 
 For inference on a single video set `--is_voxceleb2=False` and then either (1) filelist can have only one line or (2) set `--generate_from_filelist=0` and specify `--video_path`,`--audio_path`,`--out_path` instead of `--test_video_dir`,`--sample_path`,`--filelist` flags in the `scripts/inference.sh` script.
 
+### Google Colab Notebook
+You can try out Diff2Lip on Google Colab Notebook now using [this link](https://colab.research.google.com/drive/1YXGFXWclLZnBLe16_Cp5q8O9vyp7utCn?usp=sharing).
 
 
 
